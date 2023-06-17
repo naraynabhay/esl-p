@@ -1,0 +1,41 @@
+.q{
+    margin: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    height: 80vh;
+}
+.q-left{
+    width: 45%;
+    position: relative;
+}
+.q-right{
+    width: 45%;
+}
+.q-left-b{
+    position: absolute;
+    left: 30%;
+    top: 9%;
+}
+.q-left-head{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 81.66px;
+}
+.q-left-head-text{
+    margin-top: 0.7em;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.q-left-mail{
+    margin-top: 1.2em;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40.83px;
+}
+.q-left-mail-wr{
+    margin-top: 0.7em;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}

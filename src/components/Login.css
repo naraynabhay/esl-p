@@ -1,0 +1,49 @@
+.lp-login{
+    padding-top: 45px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.login-card{
+    width: 35%;
+    height: auto;
+    background-color: azure;
+    box-shadow: white 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    
+}
+.login-img{
+    margin:  0px auto ;
+}
+.login-img img{
+    height: 379px;
+    width: 318px;
+    
+}
+.lp-login-left{
+    width: 40%;
+}
+.lp-login-right{
+    width: 40%;
+}
+.login-head{
+    display: flex;
+    justify-content: center;
+    margin-top: -53pt;
+    font-weight: 500;
+}
+.login-text{
+    margin: 20px 20px;
+}
+.login-btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.lp-login-right-button{
+    margin-top: 23px;
+}
+    

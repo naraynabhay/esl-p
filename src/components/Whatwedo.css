@@ -1,0 +1,50 @@
+.wwd{
+    margin: 20px 0 ;
+    background-color: darksalmon;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly ;
+    align-items: center;
+}
+.wwd-card{
+    width: 30%;
+    background-color: white;
+    height: auto;
+
+}
+.wwd-img{
+    width:  276px;
+    height: 254px;
+    margin: 10px 20px 15px 20px;
+
+}
+.wwd-img img{
+    height: 90%;
+    width: 90%;
+    object-fit: cover;
+}
+.wwd-head{
+    font-style: oblique;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 34.68px;
+    letter-spacing: 0.5%;
+}
+.wwd-text{
+    margin-top: 20px ;
+    text-align: center;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36.1px;
+    letter-spacing: 3%;
+}
+.wwd-two{
+margin-top: 36px;
+}
+.wwd-three{
+    margin-top: -75px;
+}
+/* .wwd-three .wwd-head{
+    margin-top: 70px;
+} */

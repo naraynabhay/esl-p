@@ -1,0 +1,314 @@
+.main{display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    height: 557px;
+    width: 100%;
+    top: 4063px;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 4000px;
+    bottom: 0%;
+    }
+    .main1 {
+    background: #e9f3ed;
+    /* border: 2px solid black; */
+    height: 467px;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 16.16%;
+    
+    /* font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px; */
+    
+    letter-spacing: 0.1px;
+    }
+    .main2 {
+    /* border: 2px solid blue; */
+    height: 110px;
+    width: 100%;
+    background-color: #416d50;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 80.25%;
+    bottom: 0%;
+    display: flex;
+    }
+    #inside1 {
+    /* border: 2px solid black; */
+    height: 216px;
+    width: 177px;
+    background: #e9f3ed;
+    position: absolute;
+    left: 8.63%;
+    right: 78.44%;
+    top: 24.6%;
+    bottom: 36.62%;
+    }
+    #inside2 {
+    height: 216px;
+    width: 130px;
+    background: #e9f3ed;
+    /* border: 2px solid black; */
+    position: absolute;
+    left: 26.32%;
+    right: 64.18%;
+    top: 24.6%;
+    bottom: 36.62%;
+    }
+    #inside3 {
+    position: absolute;
+    /* border: 2px solid black; */
+    left: 43.13%;
+    right: 34.21%;
+    top: 24.6%;
+    bottom: 42.55%;
+    background: #e9f3ed;
+    }
+    #inside4 {
+    position: absolute;
+    left: 69.96%;
+    right: 7.38%;
+    top: 24.6%;
+    bottom: 42.55%;
+    /* border: 2px solid black; */
+    background: #e9f3ed;
+    }
+    
+    #in1 {
+    /* border: 2px solid yellow; */
+    position: absolute;
+    left: 2.78%;
+    right: 66.96%;
+    top: 88.51%;
+    bottom: 8.26%;
+    }
+    #in2 {
+    /* border: 2px solid rgb(180, 175, 189); */
+    left: 6.29%;
+    right: 22%;
+    top: 88.51%;
+    bottom: 8.26%;
+    }
+    #in3 {
+    /* border: 2px solid rgb(80, 78, 106); */
+    position: absolute;
+    left: 81.51%;
+    right: 9.5%;
+    top: 88.51%;
+    bottom: 8.26%;
+    }
+    .para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    }
+    .para2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    }
+    .all1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    }
+    .all2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    }
+    .all3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    }
+    #button1 {
+    color: 2px solid red;
+    box-sizing: border-box;
+    top: 88px;
+    left: 0px;
+    
+    position: absolute;
+    height: 40px;
+    width: 151px;
+    
+    background: rgba(255, 255, 255, 0.6);
+    border: 2px solid #416d50;
+    border-radius: 5px;
+    padding: 4px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    }
+    #button2 {
+    color: 2px solid red;
+    box-sizing: border-box;
+    top: 88px;
+    left: 0px;
+    
+    position: absolute;
+    height: 40px;
+    width: 151px;
+    
+    background: rgba(255, 255, 255, 0.6);
+    border: 2px solid #416d50;
+    border-radius: 5px;
+    padding: 4px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    }
+    .all4 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    }
+    .all5 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    }
+    .one {
+    position: absolute;
+    left: 2.78%;
+    right: 64.88%;
+    top: 28.31%;
+    bottom: 8.12%;
+    
+    /* subtitle2 */
+    
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+    
+    color: rgba(255, 255, 255, 0.87);
+    }
+    .two {
+    position: absolute;
+    left: 81.51%;
+    right: 8.88%;
+    top: 28.31%;
+    bottom: 8.12%;
+    
+    /* subtitle2 */
+    
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+    
+    color: rgba(255, 255, 255, 0.87);
+    }
+    .three {
+    position: absolute;
+    left: 91.52%;
+    right: 6.14%;
+    top: 43.31%;
+    bottom: 6.99%;
+    }
+    .four {
+    position: absolute;
+    left: 94.88%;
+    right: 2.78%;
+    top: 43.31%;
+    bottom: 7%;
+    
+    
+    }
+    #button1:hover{
+    cursor: pointer;
+    background-color: #416d50;
+    color: white;
+    }
+    #button2:hover{
+    cursor: pointer;
+    background-color: #416d50;
+    color: white;
+    }
+    .image1{
+        position: absolute;
+        position: absolute;
+    width: 455px;
+    height: 455px;
+    left: 710px;
+    top: 117px;
+    
+    }
+    .who-section:hover{
+        transform: scale(1.05);
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+    .text2{
+       
+        width: 106px;
+        height: 40.64px;
+        padding: 15px 34px;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 10px;
+        background: #416D50;
+        padding: 15px;
+       margin: 15px;
+    
+    }
+    .text2:hover{
+        background: #fff; 
+       color: #416D50;
+       /* border: 2px solid rgb(0, 0, 0); */
+       
+       
+    }
+    
+    .text2:hover a{
+        color: #416d50;
+        text-decoration: none;
+    }

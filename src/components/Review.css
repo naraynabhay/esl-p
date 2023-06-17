@@ -1,0 +1,7 @@
+.rv-page{
+    display: flex;
+   height: 30em;
+   margin-top: 30px;
+   justify-content: space-evenly;
+   margin-bottom: 32px;
+}

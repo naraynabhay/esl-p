@@ -1,0 +1,37 @@
+.lp-head{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 0.8em;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+    background-color:bisque;
+    padding: auto;
+}
+.lp-head-left{
+    width: 25%;
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+}
+.lp-head-left-text{
+    /* position: absolute;
+    top: 30%; */
+    font-size: 1.6em;
+    padding-top: 124px;
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+.lp-head-right{
+    width: 65%;
+    margin: 0.3em 0;
+ 
+}
+.lp-head-right img{
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-left: 20px;
+   
+}
